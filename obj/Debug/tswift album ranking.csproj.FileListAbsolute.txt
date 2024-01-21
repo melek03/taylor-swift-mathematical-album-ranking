@@ -1,0 +1,42 @@
+C:\Users\mirja\Desktop\tswift album ranking\bin\Debug\tswift album ranking.exe.config
+C:\Users\mirja\Desktop\tswift album ranking\bin\Debug\tswift album ranking.exe
+C:\Users\mirja\Desktop\tswift album ranking\bin\Debug\tswift album ranking.pdb
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\tswift album ranking.csproj.AssemblyReference.cache
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\MainWindow.g.cs
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\App.g.cs
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\tswift album ranking_MarkupCompile.cache
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\tswift album ranking_MarkupCompile.lref
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\MainWindow.baml
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\tswift album ranking.g.resources
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\tswift_album_ranking.Properties.Resources.resources
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\tswift album ranking.csproj.GenerateResource.cache
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\tswift album ranking.csproj.CoreCompileInputs.cache
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\tswift album ranking.exe
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\tswift album ranking.pdb
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\App.baml
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\description.g.cs
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\description.baml
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\albumsOverview.g.cs
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\albumsOverview.baml
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Debut.g.cs
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Debut.baml
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Evermore.g.cs
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Fearless.g.cs
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Folklore.g.cs
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Lover.g.cs
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Midnights.g.cs
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Red.g.cs
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Reputation.g.cs
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\SpeakNow.g.cs
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Evermore.baml
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Fearless.baml
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Folklore.baml
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Lover.baml
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Midnights.baml
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Red.baml
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\Reputation.baml
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\SpeakNow.baml
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\OneNine.g.cs
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\OneNine.baml
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\final.g.cs
+C:\Users\mirja\Desktop\tswift album ranking\obj\Debug\final.baml
